@@ -9,7 +9,7 @@
     Il ne dépend d'aucun hardware spécifique.
 */
 
-#include "include/sensor/sensor.h"
+#include "sensor/sensor.h"
 
 /*
     Définition des registres du capteur.
